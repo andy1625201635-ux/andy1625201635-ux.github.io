@@ -1,3 +1,7 @@
 # [Zhiqian Wu]'s Portfolio
 
-Welcome! Work in progress.
+Welcome! I'm a student in Computing in Context at SIPA.
+
+## Projects
+
+- [Project 1](project_1.md) — coming soon!
